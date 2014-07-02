@@ -1,0 +1,19 @@
+{
+  "name": "angular-ravenjs",
+  "version": "1.0.0",
+  "homepage": "https://github.com/incuna/angular-raven",
+  "description": "Captures AngularJS exceptions with RavenJS.",
+  "main": "angular_raven.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2",
+    "raven-js": "~1.0"
+  }
+}
